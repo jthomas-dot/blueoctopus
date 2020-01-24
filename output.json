@@ -1,70 +1,25 @@
-[{'college_name': None,
-  'company_names': ['ERNST & YOUNG Advisory', 'Oracle Technologies'],
-  'degree': None,
-  'designation': ['Account Manager'],
-  'email': 'john.doe@gmail.com',
-  'experience': ['•',
-                 'Identified and staffed client needs in the GA/AL/NC/SC '
-                 'markets for Risk Assurance, Internal Audit,',
-                 'Cyber Security, and Robotics Process Automation Staff, '
-                 'Seniors, Managers, & Senior Managers.',
-                 '•  Conducted discovery sessions with Account Executives to '
-                 'uncover the business requirements and',
-                 '2015 – 2019',
-                 'other interpersonal intricacies required to successfully '
-                 'deliver on a potential new engagement.',
-                 'Received multiple EY ‘RAC’ awards for securing and '
-                 'presenting not only viable, but strong',
-                 'candidates to clients often within a 24 hour or less '
-                 'turn-around time leading to many successful sales.',
-                 '•  Represented EY on sales calls as the resource management '
-                 'specialist, effectively selling clients on the',
-                 'skills, strengths, and abilities of the individuals whose '
-                 'profiles were submitted to the customer.'],
-  'mobile_number': '337-3264',
-  'name': 'John D.',
-  'no_of_pages': 2,
-  'skills': ['Engagement',
-             'Email',
-             'Coaching',
-             'Automation',
-             'Marketing',
-             'Security',
-             'Recruit',
-             'Resource management',
-             'Sales',
-             'Analytics',
-             'Operations',
-             'Database',
-             'Staffing',
-             'C',
-             'Reports',
-             'Oracle',
-             'Requests',
-             'Business stakeholders',
-             'Compliance',
-             'Hardware',
-             'Acquisition',
-             'Kpis',
-             'Tax',
-             'Architecture',
-             'Training',
-             'Contracts',
-             'Negotiation',
-             'Inventory',
-             'Documentation',
-             'Recruiting',
-             'Technical',
-             'Internal audit',
-             'Retention',
-             'Metrics',
-             'Tableau',
-             'Account management',
-             'Excel',
-             'Process',
-             'Consulting',
-             'Budget',
-             'Controls',
-             'Schedule',
-             'Audit'],
-  'total_experience': 0.0}]
+[96m Extracting data from: /Users/janellathomas/Documents/resume/directory/1resume.pdf[00m
+('[{"name": "John Doe.", "email": "John.Doe@gmail.com", "mobile_number": '
+ '"337-3264", "skills": ["Documentation", "Excel", "Business stakeholders", '
+ '"Tax", "Schedule", "Account management", "Process", "Marketing", "C", '
+ '"Sales", "Negotiation", "Hardware", "Oracle", "Retention", "Resource '
+ 'management", "Inventory", "Compliance", "Technical", "Staffing", "Reports", '
+ '"Automation", "Operations", "Recruiting", "Database", "Analytics", "Internal '
+ 'audit", "Recruit", "Requests", "Coaching", "Controls", "Budget", '
+ '"Contracts", "Consulting", "Metrics", "Engagement", "Tableau", "Kpis", '
+ '"Security", "Email", "Audit", "Acquisition", "Architecture", "Training"], '
+ '"college_name": null, "degree": null, "designation": ["Account Manager"], '
+ '"experience": ["\\u2022", "Identified and staffed client needs in the '
+ 'GA/AL/NC/SC markets for Risk Assurance, Internal Audit,", "Cyber Security, '
+ 'and Robotics Process Automation Staff, Seniors, Managers, & Senior '
+ 'Managers.", "\\u2022  Conducted discovery sessions with Account Executives '
+ 'to uncover the business requirements and", "2015 \\u2013 2019", "other '
+ 'interpersonal intricacies required to successfully deliver on a potential '
+ 'new engagement.", "Received multiple EY \\u2018RAC\\u2019 awards for '
+ 'securing and presenting not only viable, but strong", "candidates to clients '
+ 'often within a 24 hour or less turn-around time leading to many successful '
+ 'sales.", "\\u2022  Represented EY on sales calls as the resource management '
+ 'specialist, effectively selling clients on the", "skills, strengths, and '
+ 'abilities of the individuals whose profiles were submitted to the '
+ 'customer."], "company_names": ["ERNST & YOUNG Advisory", "Oracle '
+ 'Technologies"], "no_of_pages": 2, "total_experience": 0.0}]')
